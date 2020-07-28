@@ -2,4 +2,4 @@
 
 Authored by: Bari
 
-Introduction: Based on  results from Smith(2009).
+Introduction: Based on  results from Smith(2009), CoolAuthor(2012).
