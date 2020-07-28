@@ -1,5 +1,5 @@
-# Bari Fuchs is trying to learn git
+# Bari Fuchs and Alaina are trying to learn git
 
-Authored by: Bari
+Authored by: Bari and Alaina
 
 Introduction: Based on  results from Smith(2009), CoolAuthor(2012).
