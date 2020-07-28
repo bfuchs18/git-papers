@@ -6,3 +6,4 @@ Introduction: Based on  results from Smith(2009), CoolAuthor(2012).
 
 Results: Science is cool. More results!
 
+Figures: pretty pictures
